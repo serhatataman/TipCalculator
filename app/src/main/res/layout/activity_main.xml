@@ -6,10 +6,11 @@
     android:layout_height="match_parent"
     android:paddingBottom="16dp"
     android:paddingLeft="32dp"
-    android:paddingRight="32dp"  
+    android:paddingRight="32dp"
     android:paddingTop="16dp"
     android:background="@color/colorBlue"
-    tools:context=".MainActivity">  
+    tools:context=".MainActivity">
+    <!-- asdsadasda -->
 
     <TextView
         android:id="@+id/tvBillAmount"
