@@ -10,7 +10,7 @@
     android:paddingTop="16dp"
     android:background="@color/colorBlue"
     tools:context=".MainActivity">
-    <!-- Comment Line -->
+    <!-- Comment Line   -->
 
     <TextView
         android:id="@+id/tvBillAmount"
