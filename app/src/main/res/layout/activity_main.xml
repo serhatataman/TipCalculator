@@ -111,6 +111,7 @@
         android:showDividers="middle">
 
         <TextView
+            android:id="@+id/tvTipPercent"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -121,6 +122,7 @@
             android:layout_marginTop="@dimen/activity_vertical_margin"/>
 
         <TextView
+            android:id="@+id/tvTipAmount"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
