@@ -2,8 +2,6 @@
 
 Tip Calculator is an app to practice the basic concepts of application development on Android.
 
-It is required to complete the following list of functionalities
-
 # Layout
 + The user will be able to enter a bill amount
 + When the user enters the bill amount the application calculates the final bill amount and displays the calculations.
